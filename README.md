@@ -1,6 +1,8 @@
 # CP431 Term Project
 Fractal Image Generation Using `mpi4py` and `OpenGL`.
 
+<img width="214" height="276" alt="image" src="https://github.com/user-attachments/assets/4179f55b-6e57-43a2-936e-1043cd34aa74" />
+
 ## Virtual Environment Setup and Dependency Installation
 
 ### 1. Create a Virtual Environment
