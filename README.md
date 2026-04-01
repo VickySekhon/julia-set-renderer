@@ -1,5 +1,4 @@
-# CP431 Term Project
-Fractal Image Generation Using `mpi4py` and `OpenGL`.
+# Fractal Image Generation Using `mpi4py` and `OpenGL`.
 
 html<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="214" height="276" src="https://github.com/user-attachments/assets/4179f55b-6e57-43a2-936e-1043cd34aa74" />
